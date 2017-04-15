@@ -1,0 +1,93 @@
+
+.row {
+	
+	width: 95%;
+}
+nav {
+	
+  min-height: 4rem;
+  width: 95%;
+  text-align: center;
+  margin-left: 10px;
+  
+  
+}
+div[class*="columna"]{
+  min-height: 50rem;
+  margin:0;
+  padding:0;
+  
+}
+footer {
+	background:#bbdefb;
+	color: #000;
+	padding: 20px 0;
+}
+.columna-chat, .columna-news{
+  padding: 0 !important;
+}
+.contenedor-write-publicacion{
+  min-height: 7rem;
+}
+.contenedor-publicacion{
+  min-height: 17rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  margin:0.5rem;
+  
+  
+}
+.publicacion {
+	width: 100%;
+	margin-top: 0.5rem;
+	text-align:center;
+	
+}
+.contenido {
+	margin:0;
+	padding-top: 5px;
+	border: 0.5px solid gray;
+}
+.logo{
+  width: 60px;
+ float:left;
+}
+.contenedor-noticias{
+  margin-top: 1rem;
+  min-height: 50rem;
+  padding: 0.5rem;
+}
+.responsive-img{
+	
+ 
+}
+.contenid{
+	min-height: 14rem;
+}
+
+
+.nav-wrapper {
+  margin-bottom: 0;
+  padding: 0.2rem;
+
+  width: 95%;
+}
+.contenedor-botones{
+  margin-top: 1rem;
+}
+#publicacion-texto{
+	width: 80%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  resize: none;
+  border: 1px solid #ff8f00;
+  background-color: gray;
+  height: 3rem;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .columna-grupos{
+    padding: 0 !important;
+  }
+}

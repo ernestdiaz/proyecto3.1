@@ -1,0 +1,46 @@
+body {
+	width:100%;
+	
+}
+nav li{
+	
+	text-decoration:none;
+	list-style:none;
+	color: #fff;
+	margin:0px;
+	padding:0;
+}
+nav li a{
+	text-align: left;
+	color: black;
+}
+footer {
+	background: #fff9c4;
+}
+img{
+	width: 80%;
+}
+fi-torso{
+
+	background:green;
+	width:100%;
+}
+.context {
+	margin:0;
+	padding:0;
+	height: 25px;
+	border:1px solid #000;
+	border-radius: 10px;
+	background:#ffe0b2;
+}
+.callout {
+		background:transparent!important;
+		border:none;
+}
+.color {
+	background-color: #fffde7;
+	padding: 1rem;
+
+}
+
+
